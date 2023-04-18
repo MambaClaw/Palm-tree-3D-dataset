@@ -1,4 +1,4 @@
-# Plam-tree-3D-dataset
+# Palm-tree-3D-dataset
 
 There're one palm tree on each file.
 The number(int) before '-' in the name of file is the number of palm tree as a primary key.
